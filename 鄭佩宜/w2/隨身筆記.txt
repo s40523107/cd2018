@@ -1,7 +1,9 @@
 proxy:140.130.17.42/53
 
 python -m pip install Flask
+
 <pre><code>
+
 # 課後分組任務:
 利用程式取得各組學員名單
 
@@ -31,7 +33,9 @@ python -m pip install Flask
              print(groups[i])
          else:
             print(groups[i])
+
 </code></pre>
+
 <pre><code>第1組:
 40523115
 40523108
