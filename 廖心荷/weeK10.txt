@@ -1,0 +1,9 @@
+使用pyslvs裡面的六連桿機構，調整製所需的位置，之後將檔案變成2D的 solvespace 就可以在 solvespace 看到六連趕機構的尺
+寸，即可以在 solvespace , onshape ,inventor 和 solidwork 畫出零件
+我們是使用 inventor 畫出零件然後組起來 , 之後再轉成 V-rep 和 stl 檔
+心得:
+40523106
+這星期的進度是在pyslvs決定好尺寸，
+再用solvesspace繪製出之後使用V-rep模擬，
+在V-rep的模擬時遇到了比較多困難來不及及時完成，
+之後在用網路上查到的相關資料還有找同學討論可以讓整個機構動起來 !
